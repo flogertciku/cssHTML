@@ -1,0 +1,22 @@
+.content , .content2{
+
+    border: 2px black solid;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    /* width: 20%; */
+    flex: 1;
+    background-color: antiquewhite;
+}
+.container{
+display: flex;
+justify-content: space-between;
+}
+
+.h2{
+    display: block;
+}
+#myh2{
+    display: block;
+}
